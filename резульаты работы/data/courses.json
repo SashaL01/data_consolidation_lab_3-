@@ -1,0 +1,42 @@
+[
+  {
+    "course_id": 1,
+    "course_name": "Python Programming"
+  },
+  {
+    "course_id": 2,
+    "course_name": "Data Analysis"
+  },
+  {
+    "course_id": 3,
+    "course_name": "Machine Learning"
+  },
+  {
+    "course_id": 4,
+    "course_name": "Web Development"
+  },
+  {
+    "course_id": 5,
+    "course_name": "Database Management"
+  },
+  {
+    "course_id": 6,
+    "course_name": "Project Management"
+  },
+  {
+    "course_id": 7,
+    "course_name": "Business Analytics"
+  },
+  {
+    "course_id": 8,
+    "course_name": "Cloud Computing"
+  },
+  {
+    "course_id": 9,
+    "course_name": "Cybersecurity"
+  },
+  {
+    "course_id": 10,
+    "course_name": "DevOps Fundamentals"
+  }
+]
